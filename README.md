@@ -18,13 +18,6 @@ This repository hosts my personal academic-creative portfolio, featuring:
 | [Creative Work](/creative) | Poetry, fiction, and curation essays |
 | [Social Praxis](/praxis) | Balti Museum initiatives and non-profit work |
 
-## My Journey
-> "A first-generation learner from the Balti tribe who transformed childhood questions about electric fields into a mission to bridge Himalayan wisdom and academic philosophy."
-
-- **Origins**: Semi-pastoral village in Ladakh → IISER Pune  
-- **Turning Point**: Discovered philosophy through physics at IIT Bombay  
-- **Mission**: Preserve Balti heritage while contributing to global philosophical discourse  
-
 ## Technical Details
 - Built with: **HTML/CSS** (Vanilla) or **Jekyll** (optional)  
 - Hosted on: GitHub Pages  
