@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wasim |  Aspiring Philosopher, writer, cultural curator </title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Wasim</h1>
+        <p>From Ladakh's Himalayas to Philosophy & Heritage</p>
+    </header>
+    <nav>
+        <a href="/philosophy">Research</a>
+        <a href="/creative">Writing</a>
+        <a href="/praxis">Museum</a>
+    </nav>
+</body>
+</html>
