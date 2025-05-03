@@ -1,15 +1,15 @@
 # [Your Full Name] | Philosopher • Writer • Cultural Guardian
 
-**Website:** [https://yourusername.github.io](https://yourusername.github.io)  
-**Email:** your.email@example.com  
+**Website:** [https://fringestani.github.io](https://yourusername.github.io)  
+**Email:** wasimy830@gmail.com
 
-![Himalayan Landscape Banner](/assets/images/banner.jpg) *The mountains of Ladakh that shaped my journey*
+
 
 ## About This Repository
 This repository hosts my personal academic-creative portfolio, featuring:
 - **Philosophy research** (metaphysics, philosophy of science)  
-- **Literary works** (poetry, fiction merging physics and Balti folklore)  
-- **Cultural preservation** (Balti Museum projects, heritage documentation)  
+- **Creative work** (poetry, fiction, and curation)  
+- **Cultural preservation** (Balti Museum projects, Balti heritage and cultural foundation)  
 
 ## Key Sections
 | Section          | Description                                  |
@@ -28,7 +28,7 @@ This repository hosts my personal academic-creative portfolio, featuring:
 ## Technical Details
 - Built with: **HTML/CSS** (Vanilla) or **Jekyll** (optional)  
 - Hosted on: GitHub Pages  
-- Includes: Responsive design, Ladakhi color palette  
+- Includes: Responsive design, earthen color palette  
 
 ## How to Use
 1. Clone repository:
