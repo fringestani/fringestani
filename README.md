@@ -9,11 +9,5 @@
 - **Creative work** (poetry, fiction, and curation)  
 - **Cultural preservation** (Balti Museum projects, Balti heritage and cultural foundation)  
 
-## Key Sections
-| Section          | Description                                  |
-|------------------|---------------------------------------------|
-| [Research](/philosophy) | Academic papers, thesis, and philosophy projects | 
-| [Creative Work](/creative) | Poetry, fiction, and curation essays |
-| [Social Praxis](/praxis) | Balti Museum initiatives and non-profit work |
 
 
