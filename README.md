@@ -1,4 +1,4 @@
-# [Wasim] | Philosophy researcher • Writer • Cultural Curator
+# Wasim | Philosophy researcher • Writer • Cultural Curator
 
 **Website:** [https://fringestani.github.io](https://yourusername.github.io)  
 **Email:** wasimy830@gmail.com
