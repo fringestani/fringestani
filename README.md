@@ -16,12 +16,4 @@
 | [Creative Work](/creative) | Poetry, fiction, and curation essays |
 | [Social Praxis](/praxis) | Balti Museum initiatives and non-profit work |
 
-## Technical Details
-- Built with: **HTML/CSS** (Vanilla) or **Jekyll** (optional)  
-- Hosted on: GitHub Pages  
-- Includes: Responsive design, earthen color palette  
 
-## How to Use
-1. Clone repository:
-   ```bash
-   git clone https://github.com/yourusername/yourusername.github.io.git
