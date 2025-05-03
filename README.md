@@ -1,4 +1,4 @@
-# [Your Full Name] | Philosopher • Writer • Cultural Guardian
+# [Your Full Name] | Philosophy researcher • Writer • cultural curator
 
 **Website:** [https://fringestani.github.io](https://yourusername.github.io)  
 **Email:** wasimy830@gmail.com
