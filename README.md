@@ -5,8 +5,6 @@
 
 
 
-## About This Repository
-This repository hosts my personal academic-creative portfolio, featuring:
 - **Philosophy research** (philosophy of science and ethics)  
 - **Creative work** (poetry, fiction, and curation)  
 - **Cultural preservation** (Balti Museum projects, Balti heritage and cultural foundation)  
